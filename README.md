@@ -8,6 +8,6 @@
 * Tqdm - Used to track progress whilst training
 * Argparse - Required for console inputs
 # Working in terminal
-
+![working](command line and working.png)
 # Output
 ![plot](AAPLresults_plot.png)
